@@ -826,12 +826,20 @@
 </script>
   
   <main>
-    <section class="home-hero-section" data-layout-spec="Home-hero" data-hero-type="fullscreen-card">
-  <img data-hero-bg="true" data-placeholder="home-hero-bg" data-context="Gallery-grade photograph of a contemporary art installation in a pristine white-walled gallery space. Single large abstract painting or sculptural work centered on warm-white walls with museum-quality lighting. Minimal shadows, true-to-color reproduction, professional art documentation style. Neutral, sophisticated, clean aesthetic for fine art presentation." data-preserve-bg="0" class="hero-bg-image" width="1920" height="1080" src="/assets/site-home-hero-bg.webp" alt="Eric Mintz artwork in gallery setting">
+    <section class="home-hero-section" data-layout-spec="Home-hero" data-hero-type="fullscreen-card" style="; position: relative; overflow: hidden;">
+<div class="hero-video-background">
+  <div class="hero-video-overlay"></div>
+  <video class="hero-video" autoplay="" muted="" loop="" playsinline="">
+    <source src="/assets/hero-video-7ac8c809-1c1a-4620-a0d6-82600b29ba7e-watermark-1773454246452.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <img class="hero-video-fallback" src="/assets/site-home-hero-bg.webp" alt="Hero background" loading="lazy">
+</div>
+  <img data-hero-bg="true" data-placeholder="home-hero-bg" data-context="Gallery-grade photograph of a contemporary art installation in a pristine white-walled gallery space. Single large abstract painting or sculptural work centered on warm-white walls with museum-quality lighting. Minimal shadows, true-to-color reproduction, professional art documentation style. Neutral, sophisticated, clean aesthetic for fine art presentation." data-preserve-bg="0" class="hero-bg-image hero-original-image-hidden" width="1920" height="1080" src="/assets/site-home-hero-bg.webp" alt="Eric Mintz artwork in gallery setting" style="; display: none !important;">
   
   <div class="hero-scrim" aria-hidden="true"></div>
   
-  <div class="hero-overlay-card">
+  <div class="hero-overlay-card hero-original-overlay-hidden" style="; display: none !important;">
     <h1>Eric Mintz Art—&nbsp;</h1>
     <h3 class="hero-subtitle">&nbsp;Hi, I'm Eric Mintz, an artist based in Los Angeles. My work mixes bold color, strange ideas, and a little bit of chaos. Everything in this shop starts as my original artwork. Thanks for supporting independent artists.</h3>
     <div class="hero-cta-row">
