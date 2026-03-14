@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Discover original paintings, drawings, and sculptures by Eric Mintz. Shop museum-quality prints, posters, and art apparel. Free inspiration starts here.
+
+### About
+https://example.com/about
+Meet Eric Mintz, a multidisciplinary artist blending fine art with accessible design. From gallery pieces to poster my wall prints, explore the creative journey.
+
+### Gallery
+https://example.com/gallery
+View Eric Mintz&#39;s complete gallery of original paintings, drawings, and sculptures. Find ibis paint x inspired digital works and collectible art pieces for sale.
+
+### Contact
+https://example.com/contact
+Ready to bring your vision to life? Contact Eric Mintz for custom commissions, gallery inquiries, or collaboration opportunities. Let&#39;s create something extraordinary.
+
+### Products
+https://example.com/products
+Our Products - Eric Mintz
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Eric Mintz
+
+### Category
+https://example.com/category/:slug
+Products - Eric Mintz
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
