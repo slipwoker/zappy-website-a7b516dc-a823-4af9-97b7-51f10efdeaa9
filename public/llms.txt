@@ -22,7 +22,7 @@ Ready to bring your vision to life? Contact Eric Mintz for custom commissions, g
 
 ### Products
 https://example.com/products
-Our Products - Eric Mintz
+Our Products - Eric Mintz Art
 
 ### Cart
 https://example.com/cart
@@ -46,11 +46,11 @@ Thank you for your order
 
 ### Product Detail
 https://example.com/product/:slug
-Product Details - Eric Mintz
+Product Details - Eric Mintz Art
 
 ### Category
 https://example.com/category/:slug
-Products - Eric Mintz
+Products - Eric Mintz Art
 
 ## Legal & Policy
 
